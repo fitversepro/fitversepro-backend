@@ -34,3 +34,5 @@ FitVerse is a multi-tenancy gym application. The backend handles API management 
 - **Authentication**: JWT
 - **Deployment**: Docker, AWS
 
+Link: https://fitversepro.com/
+
